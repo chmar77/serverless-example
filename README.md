@@ -30,3 +30,5 @@
 - lambda seem to allow 200 current connection only
 
 - haskell (close connection after finish http request)
+
+- must allow roles policy in lambda to access s3
